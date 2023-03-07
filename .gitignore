@@ -1,0 +1,15 @@
+*
+
+!/*.md
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+
+!.github/
+!.github/**/
+!.github/**/*.yaml
+
+!src/
+!src/**/
+!src/**/*.md
+!src/**/*.png
